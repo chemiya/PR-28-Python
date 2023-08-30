@@ -1,0 +1,2 @@
+,Arbol de decision,MLP,Regresion logistica,SGD Clasificador,SVM,Bosque aleatorio,Kneightbours,Red neuronal,RBF,Gradient bootsting
+0,0.571,0.5,0.548,0.512,0.536,0.476,0.56,0.548,0.56,0.548
