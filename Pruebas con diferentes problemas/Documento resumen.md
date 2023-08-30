@@ -10,7 +10,7 @@ En este proyecto se pueden encontrar las siguientes carpetas:
 <ul>
 <li>Pruebas con diferentes problemas: en esta carpeta se encuentran diferentes experimentos con problemas de clasificación, regresión y clustering sobre diferentes datasets aplicando diferentes modelos de Machine learning.</li>
 <li>Entregas de TAA: en esta carpeta se encuentran las principales entregas realizadas para la asignatura de técnicas de aprendizaje automático. De manera similar a la carpeta anterior, en esta carpeta se encuentran diferentes ejercicios aplicando diferentes modelos de Machine learning.</li>
-<li>Pruebas fútbol: en esta carpeta se encuentran experimentos realizados sobre un dataset que contiene datos sobre diferentes partidos de diferentes ligas. Se puede distinguir en esta carpeta un ejercicio de clasificación para determinar si un partido tendrá más de goles o no y un ejercicio de regresión para estimar el número de goles que tendrá el local y el visitante en un partido.</li>
+<li>Pruebas fútbol: en esta carpeta se encuentran experimentos realizados sobre un dataset que contiene datos sobre diferentes partidos de diferentes ligas. Se puede distinguir en esta carpeta un ejercicio de clasificación para determinar si un partido tendrá más de 2 goles o no y un ejercicio de regresión para estimar el número de goles que tendrá el local y el visitante en un partido.</li>
 </ul>
 
 
@@ -29,11 +29,11 @@ Se utilizarán las técnicas de hold-out y validación cruzada con los siguiente
 <ul>
 <li>Árboles de decisión</li>
 <li>Kmeans</li>
-<li>Kneightbours</li>
+<li>Kneighbours</li>
 <li>MLP</li>
-<li>Regresion lineal</li>
-<li>Regresion logística</li>
-<li>Regresion Ridge</li>
+<li>Regresión lineal</li>
+<li>Regresión logística</li>
+<li>Regresión Ridge</li>
 <li>SGD Classifier</li>
 <li>SGD Regressor</li>
 <li>SVM</li>
@@ -66,7 +66,7 @@ Se utilizarán las técnicas de hold-out y validación cruzada con los siguiente
 <li>Descripción: este conjunto de datos contiene información sobre los pasajeros a bordo del famoso buque Titanic, que se hundió en su viaje inaugural en 1912.</li>
 <li>Instancias:892</li>
 <li>Atributos: 11 atributos. Estos atributos contienen los datos de los pasajeros.</li>
-<li>Salida a predecir: salida binaria. El pasajero sobrevivio o no.</li>
+<li>Salida a predecir: salida binaria. El pasajero sobrevivió o no.</li>
 <li>Enlace de acceso: https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd</li>
 </ul>
 
@@ -84,7 +84,7 @@ Se utilizarán las técnicas de hold-out y validación cruzada con los siguiente
 <ul>
 <li>Descripción: este conjunto de datos contiene información sobre varios modelos de automóviles y sus atributos, como características técnicas y eficiencia en consumo de combustible. </li>
 <li>Instancias:398</li>
-<li>Atributos: 8 atributos. Estos atributos contienen las caracteristicas de los automóviles.</li>
+<li>Atributos: 8 atributos. Estos atributos contienen las características de los automóviles.</li>
 <li>Salida a predecir: variable continua. El consumo de combustible en millas por galón (MPG).</li>
 <li>Enlace de acceso: https://archive.ics.uci.edu/dataset/9/auto+mpg</li>
 </ul>
@@ -113,6 +113,13 @@ Se utilizarán las técnicas de hold-out y validación cruzada con los siguiente
 
 
 
+</ul>
+
+
+<h2><li>Enlace al video y repositorio</li></h2>
+<ul>
+<li>Repositorio Github:</li>
+<li>Video Youtube:</li>
 </ul>
 
 
