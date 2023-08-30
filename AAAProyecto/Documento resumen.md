@@ -2,7 +2,17 @@
 
 <ol>
 <h2><li>Descripción del proyecto</li></h2>
+
 <p>Este proyecto consiste en la aplicación de los diferentes de modelos que existen de Machine learning sobre los principales datasets que se pueden encontrar para ver que modelo funciona mejor para cada dataset. Previo a entrenar los modelos con los dataset, se deben entender y visualizar los datos del dataset y despues se deben realizar las acciones oportunas para limpiar y preparar los datos. Posterior a entrenar los modelos con los dataset, se debe comprobar cuál es el modelo que tiene un mayor acierto para el dataset.</p>
+
+<h2><li>Contenido de este proyecto</li></h2>
+En este proyecto se pueden encontrar las siguientes carpetas:
+<ul>
+<li>Pruebas con diferentes problemas: en esta carpeta se encuentran diferentes experimentos con problemas de clasificación, regresión y clustering sobre diferentes datasets aplicando diferentes modelos de Machine learning.</li>
+<li>Entregas de TAA: en esta carpeta se encuentran las principales entregas realizadas para la asignatura de técnicas de aprendizaje automático. De manera similar a la carpeta anterior, en esta carpeta se encuentran diferentes ejercicios aplicando diferentes modelos de Machine learning.</li>
+<li>Pruebas fútbol: en esta carpeta se encuentran experimentos realizados sobre un dataset que contiene datos sobre diferentes partidos de diferentes ligas. Se puede distinguir en esta carpeta un ejercicio de clasificación para determinar si un partido tendrá más de goles o no y un ejercicio de regresión para estimar el número de goles que tendrá el local y el visitante en un partido.</li>
+</ul>
+
 
 
 <h2><li>Tipos de aprendizaje en Machine learning que se van a trabajar</li></h2>
@@ -12,10 +22,12 @@
 </ul>
 
 
-<h2><li>Modelos de Machine learning que se van a trabajar</li></h2>
-Se utilizarán las técnicas de hold-out y validación cruzada 
+
+<h2><li>Modelos de Machine learning que se van a emplear</li></h2>
+Se utilizarán las técnicas de hold-out y validación cruzada con los siguientes modelos:
+
 <ul>
-<li>Arboles de decisión</li>
+<li>Árboles de decisión</li>
 <li>Kmeans</li>
 <li>Kneightbours</li>
 <li>MLP</li>
@@ -34,7 +46,9 @@ Se utilizarán las técnicas de hold-out y validación cruzada
 </ul>
 
 
-<h2><li>Descripción de datasets que se van a trabajar</li></h2> 
+
+<h2><li>Descripción de los datasets que se van a emplear</li></h2> 
+
 <ul>
 <li>Load breast cancer</li>
 <ul>
